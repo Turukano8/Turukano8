@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Turukano8
+- 👀 I’m interested in learning to code/work on a blockchain and need direction on where to start if anyones feeling charitable
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on a blockchain project
+- 📫 You can reach me on this profile
